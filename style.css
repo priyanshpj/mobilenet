@@ -1,0 +1,34 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  body{
+    background: linear-gradient(to right, #00ff00 0%,#207cca 33%,#dafc00 66%,#f2b900 100%);
+  }
+  canvas{
+    background: url("monitor.png");
+    background-size: cover;
+    padding: 50px;
+    margin-top: 100px;
+  }
+  video{
+    height: 500px;
+  }
